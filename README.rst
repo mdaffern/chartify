@@ -1,6 +1,8 @@
 Chartify
 ========
 
+
+
 |status|  |release|  |python|
 
 .. |status| image:: https://img.shields.io/badge/Status-Beta-blue.svg
